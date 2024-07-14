@@ -3,7 +3,7 @@
 // > - more than 
 // < - less than
 // >= more than equal
-// <- less than equal
+// <= less than equal
 
 let result = 10 > 5
 console.log(`10 is more than 5: ${result}`);
